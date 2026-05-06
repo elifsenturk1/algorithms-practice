@@ -5,18 +5,15 @@ This repository contains basic algorithm implementations written in C and C++.
 ## Project Structure
 
 
-algorithms-practice/
-│
-├── C/
-│ └── (C language algorithms)
-│
-├── CPP/
-│ └── (C++ algorithms)
+algorithms-practice:
+C/(C language algorithms)
+CPP/(C++ algorithms)
 
 
 ## Algorithms Included
 
 - Collatz Sequence
+- Student average program
 - (More coming soon...)
 
 ## Purpose
@@ -27,7 +24,3 @@ This repository is created for practicing fundamental algorithms and improving p
 
 - C
 - C++
-
-## ✨ Author
-
-Elif Şentürk
